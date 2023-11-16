@@ -2,6 +2,15 @@
 
 ## Objetivo Geral:
 
+```
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Imprime "Hello World!" no console
+        System.out.println("Hello World!");
+    }
+}
+```
+
 Capacitar os alunos a compreender os conceitos fundamentais da programação em Java, desde os conceitos básicos até a programação orientada a objetos (POO) e os princípios de programação orientada a eventos (POE), utilizando o ambiente de desenvolvimento Eclipse no sistema operacional Windows 10.
 
 ## Semana 1-2: Introdução à Programação e Configuração do Ambiente
